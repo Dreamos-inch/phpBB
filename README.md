@@ -1,2 +1,1 @@
-# phpBB
-phpBB theme
+# This a cusom phpBB theme for 3.3.x version
