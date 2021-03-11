@@ -1,0 +1,49 @@
+	{S_SEARCH_HIDDEN_FIELDS}
+    {UNREAD_NOTIFICATIONS_COUNT}
+    {META}
+    {U_CANONICAL}
+    {L_FEED}
+    {SITENAME}
+    {L_FEED_NEWS}
+    {L_ALL_FORUMS}
+    {L_FEED_TOPICS_NEW}
+    {L_FEED_TOPICS_ACTIVE}
+     {L_FORUM} - {FORUM_NAME}
+     {L_TOPIC} - {TOPIC_TITLE}
+     {T_FONT_AWESOME_LINK}
+     {T_STYLESHEET_LINK}
+     {T_STYLESHEET_LANG_LINK}
+     {T_ASSETS_VERSION}
+     {SCRIPT_NAME}
+      {S_CONTENT_DIRECTION} 
+      {BODY_CLASS}
+      { U_SITE_HOME }
+      {SITENAME}
+      {SITE_DESCRIPTION}
+      {L_SKIP}
+      {L_SEARCH_ADV}
+      	{S_SEARCH_HIDDEN_FIELDS}
+          {L_INFORMATION}{L_COLON}
+          {L_BOARD_DISABLED}
+          {L_INFORMATION}{L_COLON}
+          {L_BOARD_DISABLED}
+          {L_BOARD_DISABLED}
+          {L_INFORMATION}{L_COLON}
+          { CREDIT_LINE }
+          { lang('PRIVACY_LINK') }
+          { TRANSLATION_INFO }
+          { DEBUG_OUTPUT }
+          {L_AJAX_ERROR_TITLE}
+          {L_TIMEOUT_PROCESSING_REQ}
+          {L_AJAX_ERROR_TEXT_PARSERERROR}
+          {L_AJAX_ERROR_TEXT_TIMEOUT}
+          {L_AJAX_ERROR_TEXT_ABORT}
+          {L_AJAX_ERROR_TEXT}
+          {L_AJAX_ERROR_TITLE}
+          {L_TIMEOUT_PROCESSING_REQ}
+          {L_ERROR}
+          {RUN_CRON_TASK}
+          {T_JQUERY_LINK}
+          {T_ASSETS_PATH}
+          {T_ASSETS_VERSION}
+          {LA_COOKIE_CONSENT_MSG}
